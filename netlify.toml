@@ -1,0 +1,9 @@
+# netlify.toml — site institucional do FibroTrack (fibrotrack.netlify.app)
+#
+# Site estático de um único ficheiro (index.html, com imagens/fontes/vídeo
+# embutidos). Não há passo de build — o Netlify serve a raiz diretamente.
+# O formulário de contacto usa Netlify Forms (deteção automática no deploy).
+
+[build]
+  publish = "."
+  command = ""
