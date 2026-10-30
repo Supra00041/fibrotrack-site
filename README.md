@@ -10,13 +10,14 @@ fontes embutidas. Não precisa de build nem de dependências.
 
 ## Conteúdo
 
-- **Faixa de credibilidade** no topo: apresentação no 8.º Congresso
-  Internacional IACS 2026 e piloto formal de 3 meses aprovado. Não se nomeia
-  nenhuma instituição.
-- **Hero**, secção do problema, **Como funciona** (oito pontos, do cartão ao
+- **Hero** com um selo pequeno "✓ Piloto formal de 3 meses aprovado" e, logo a
+  seguir, a faixa **"Apresentado em"** com o logótipo do IACS 2026 (recortado do
+  modelo oficial do congresso) e "8.º Congresso Internacional · Outubro 2026".
+  Dizer sempre "Apresentado em", nunca "parceiro" nem "apoiado por". Não se
+  nomeia nenhuma instituição.
+- Secção do problema, **Como funciona** (oito pontos, do cartão ao
   relatório do dia em PDF), **Rastreabilidade em segundos** (pesquisa por doente
-  e por lote), demonstração, conformidade e auditoria, **Quem criou**, contacto e
-  rodapé.
+  e por lote), demonstração, conformidade e auditoria, contacto e rodapé.
 - **Capturas de ecrã** do software com **dados fictícios** (números de série,
   operadores, doentes e lotes inventados). Nunca usar capturas com dados reais.
 - **Botão "Experimentar a demonstração no navegador"**, que abre
