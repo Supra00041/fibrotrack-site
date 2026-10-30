@@ -10,9 +10,11 @@ fontes embutidas. Não precisa de build nem de dependências.
 
 ## Conteúdo
 
-- **Hero** com um selo pequeno "✓ Piloto formal de 3 meses aprovado" e, logo a
-  seguir, a faixa **"Apresentado em"** com o logótipo do IACS 2026 (recortado do
-  modelo oficial do congresso) e "8.º Congresso Internacional · Outubro 2026".
+- **Cabeçalho fixo** com **"Apresentado em"**, o logótipo do IACS 2026
+  (recortado do modelo oficial do congresso) e "8.º Congresso Internacional ·
+  Outubro 2026", ao centro. Quando aperta, sai o texto e depois "Apresentado
+  em"; abaixo de 520 px sai do cabeçalho e aparece uma faixa por baixo do topo.
+- **Hero** com um selo pequeno "✓ Piloto formal de 3 meses aprovado".
   Dizer sempre "Apresentado em", nunca "parceiro" nem "apoiado por". Não se
   nomeia nenhuma instituição.
 - Secção do problema, **Como funciona** (oito pontos, do cartão ao
